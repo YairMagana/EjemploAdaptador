@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploAdaptador", "EjemploAdaptador.csproj", "{B72F3FBC-B56F-4054-8374-EF4953D73CA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72F3FBC-B56F-4054-8374-EF4953D73CA3}.Debug|x86.ActiveCfg = Debug|x86
+		{B72F3FBC-B56F-4054-8374-EF4953D73CA3}.Debug|x86.Build.0 = Debug|x86
+		{B72F3FBC-B56F-4054-8374-EF4953D73CA3}.Release|x86.ActiveCfg = Release|x86
+		{B72F3FBC-B56F-4054-8374-EF4953D73CA3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C075260-1A8D-4DC8-8978-BBBFDEC19F2B}
+	EndGlobalSection
+EndGlobal
